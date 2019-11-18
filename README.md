@@ -30,4 +30,4 @@
 
 # Bonus
 
-Good Restful APIs design extra https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+12 very nice examples of progressive web apps https://www.simicart.com/blog/progressive-web-apps-examples/
