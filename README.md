@@ -30,4 +30,4 @@
 
 # Bonus
 
-12 very nice examples of progressive web apps https://www.simicart.com/blog/progressive-web-apps-examples/
+Some very nice website examples https://blog.hubspot.com/marketing/best-website-designs-list
