@@ -12,9 +12,12 @@
 
 # Today - day w5d5
 
-- Get your project 2 validated
+- Github
 - Remove impediments with your project
 - Getting up to speed with your project
+- Get your project 2 validated (12.00)
+- Microlearning: web mashups
+- Secret activity
 
 ## Activities
 
